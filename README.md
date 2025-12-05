@@ -1,4 +1,4 @@
-This is a trend strategy where we are doing a GAP up analysis. Trend Upside but takes time need to make money.
+This is a trend strategy where we are doing a GAP up analysis. Trend Upside but takes time ro exceute trades.
 
 bull_analysis(gap_up, num_days) scans through a DataFrame df and:
 
